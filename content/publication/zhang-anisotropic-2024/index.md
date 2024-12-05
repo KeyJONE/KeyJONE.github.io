@@ -1,0 +1,35 @@
+---
+title: Anisotropic continuum framework of coupled gas flow - adsorption - deformation
+  in sedimentary rocks
+authors:
+- Qi Zhang
+- Zhen-Yu Yin
+- Xia Yan
+date: '2024-03-01'
+publishDate: '2024-12-05T17:01:37.666993Z'
+publication_types:
+- article-journal
+publication: '*International Journal for Numerical and Analytical Methods in Geomechanics*'
+doi: 10.1002/nag.3674
+abstract: 'Solid deformation is always a crucial factor of gas transport in sedimentary
+  rocks. While previous studies always adopt the assumption of isotropic poroelastic
+  deformation, anisotropic poroelastoplastic deformation is rarely considered, despite
+  anisotropy being a ubiquitous property of natural sedimentary rocks. In this work,
+  an anisotropic poromechanical model is established to analyze the matrix porosity
+  and apparent permeability evolutions during the process of gas migration. Using
+  a thermodynamic formulation that treats the fluid-solid interface as an independent
+  phase, we derive a rate form for matrix porosity and obtain the new dissipation
+  function that contains three parts: dissipations from solid deformation, gas adsorption,
+  and fluid flow. For gas adsorption, we justify the rationality of the adopted model;
+  for fluid flow, the updated porosity can be substituted into sophisticated apparent
+  permeability models for full-scale analysis; and for solid deformation, a recently
+  developed constitutive model appropriate for rocks exhibiting transverse isotropy
+  in both the elastic and plastic responses is adopted in this work. Through the novel
+  stress-point simulation incorporating two effective stress measures and adsorption
+  strain, new patterns of apparent permeability are obtained, which fit the experimental
+  data quite well and cannot be reproduced from the assumption of isotropic poroelasticity.
+  The advantages of our poromechanical model include thermodynamic consistency and
+  the ability to employ finite-element-based formulation. Finally, an initial-boundary
+  value problem of gas production considering anisotropic plasticity is conducted,
+  and the effects of the bedding plane and different adsorption models are highlighted.'
+---
