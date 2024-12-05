@@ -148,4 +148,4 @@ awards:
 
 ## About Me
 
-Qi Zhang is a Tenure-Track Assistant Professor of Geotechnical Engineering at the Stanford AI Lab. He is interested in understanding and controlling the fundamental poro-mechanical processes that determine the formation and recovery of earth resources from sedimentary rocks to achieve energy and environmental sustainability. He is currently teaching CIVL 7014: Numerical modeling in Geomechanics.
+Qi Zhang is a Tenure-Track Assistant Professor of Geotechnical Engineering at the Department of Civil and Environmental Engineering, Faculty of Science and Technology, University of Macau. He is interested in understanding and controlling the fundamental poro-mechanical processes that determine the formation and recovery of earth resources from sedimentary rocks to achieve energy and environmental sustainability. He is currently teaching CIVL 7014: Numerical modeling in Geomechanics.
