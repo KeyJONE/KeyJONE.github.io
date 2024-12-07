@@ -87,8 +87,8 @@ education:
       - Basic Principles of Steel and Concrete Structures
 work:
   - position: Research Assistant Professor (Essentially Postdoc)
-    company_name: The Hong Kong Polytechnic University
-    company_url: 'https://www.polyu.edu.hk/'
+    company_name: Hong Kong
+    company_url: ''
     company_logo: ''
     date_start: 2021-10-01
     date_end: 2024-12-31
@@ -97,7 +97,7 @@ work:
       - Teaching 0.5 to 1 course per year
       - Write RGC-GRF Proposal
       - Publish Research Results in Top Journals
-      - Salary is about 65k USD per year
+      - Salary is about 65k USD per year before tax
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

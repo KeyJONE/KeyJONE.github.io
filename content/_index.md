@@ -37,7 +37,7 @@ sections:
       text: |-
         At present, my research is focused on formulating innovative theories and developing advanced numerical methods to investigate the **multi-scale pore structures**, **multiple fluid flow patterns**, and complex **multi-physics processes**. Additionally, I am exploring the effects of **bedding-induced anisotropy**. This comprehensive investigation is aimed at facilitating a transition towards sustainable energy practices, and our results should be applicable to general porous media with slight modifications. By integrating rock experimental testing data (such as the poroelasticity constants) with poromechanics and solid mechanics theory, my team and I aim to build predictive models that can enhance our understanding of shale behavior and contribute to more efficient and sustainable energy extraction practices.
 
-        For instance, our results could have practical implications for geothermal engineering or carbon storage. In addition, I am also intrigued by the Virtual Element Method (VEM) and Discretization-Guided Machine Learning in complex porous media or nonlinear continuum mechanics.
+        For instance, our results could have practical implications for geothermal engineering or carbon storage. In addition, I am also intrigued by the Virtual Element Method (VEM) and FEM/FVM Discretization-Guided Machine Learning in complex porous media or nonlinear continuum mechanics.
         
         Please reach out to collaborate by sending me an email or just stop by my office 😃
     design:
