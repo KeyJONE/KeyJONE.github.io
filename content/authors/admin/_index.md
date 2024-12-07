@@ -49,7 +49,7 @@ profiles:
 interests:
   - Computational Geomechanics
   - Theoretical Poromechanics
-  - Nonlinear Finite Element Analysis
+  - Nonlinear Continuum Mechanics
 
 education:
   - area: PhD Geomechanics
