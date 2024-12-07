@@ -6,8 +6,9 @@ event_url: https://www.emi2024ic.com/
 
 location: TU Wien, Vienna, Austria
 
+summary: Presentation at the ASCE Engineering Mechanics Institute 2024 International Conference. Mini-Symposia co-organizer.
 
-summary: This talk introduces a novel stable node-based smoothed particle finite element method (SNS-PFEM) integrated with the dual mortar contact method, designed to address fully coupled thermo-hydro-mechanical (THM) structure-soil interaction geotechnical problems, particularly those involving large deformation. The proposed SNS-PFEM framework offers three key advancements. The validity of this method is demonstrated through four benchmark tests, including the thermo-mechanical (TM) coupled sliding beam, the hydro-thermal (HT) coupled moving liquid, the THM coupled thermal consolidation, and the THM coupled half space heating. Additionally, the proposed THM SNS-PFEM framework is applied to investigate the interaction behavior between submarine pipelines and seabed soil during penetration and buckling, with a specific focus on thermal effects.
+abstract: This talk introduces a novel stable node-based smoothed particle finite element method (SNS-PFEM) integrated with the dual mortar contact method, designed to address fully coupled thermo-hydro-mechanical (THM) structure-soil interaction geotechnical problems, particularly those involving large deformation. The proposed SNS-PFEM framework offers three key advancements. The validity of this method is demonstrated through four benchmark tests, including the thermo-mechanical (TM) coupled sliding beam, the hydro-thermal (HT) coupled moving liquid, the THM coupled thermal consolidation, and the THM coupled half space heating. Additionally, the proposed THM SNS-PFEM framework is applied to investigate the interaction behavior between submarine pipelines and seabed soil during penetration and buckling, with a specific focus on thermal effects.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
