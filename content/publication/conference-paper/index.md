@@ -29,8 +29,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-  - Template
+tags: ''
 
 # Display this page in the Featured widget?
 featured: false

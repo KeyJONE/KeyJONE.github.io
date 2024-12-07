@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: These are just projects inherited from the website template, not my own projects.
       filters:
         folders:
           - project
