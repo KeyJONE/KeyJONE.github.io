@@ -3,7 +3,7 @@ title: Improved anisotropic thermo-hydro-mechanical coupling theory and its impl
   SNS-FEM framework
 authors:
 - Xian-Han Wu
-- Qi Zhang
+- admin
 date: '2025-01-01'
 publishDate: '2024-12-05T17:01:37.686359Z'
 publication_types:

@@ -2,7 +2,7 @@
 title: Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural
   Network
 authors:
-- Qi Zhang
+- admin
 - Yilin Chen
 - Ziyi Yang
 date: '2020-06-01'

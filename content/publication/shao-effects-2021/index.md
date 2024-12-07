@@ -3,7 +3,7 @@ title: Effects of the borehole drainage for roof aquifer on local stress in unde
   mining
 authors:
 - Jianli Shao
-- Qi Zhang
+- admin
 - Wenquan Zhang
 - Zaiyong Wang
 - Xintao Wu

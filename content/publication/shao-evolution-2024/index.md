@@ -3,7 +3,7 @@ title: Evolution of mining-induced water inrush disaster from a hidden fault in 
   seam floor based on a coupled stress–seepage–damage model
 authors:
 - Jianli Shao
-- Qi Zhang
+- admin
 - Wenquan Zhang
 date: '2024-05-01'
 publishDate: '2024-12-05T17:01:37.674246Z'

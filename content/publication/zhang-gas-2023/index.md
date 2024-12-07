@@ -1,7 +1,7 @@
 ---
 title: Gas flow and solid deformation in unconventional shale
 authors:
-- Qi Zhang
+- admin
 - Zhen-Yu Yin
 - Xia Yan
 - Xinyu Wang

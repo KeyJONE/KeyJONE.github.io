@@ -4,7 +4,7 @@ title: Numerical Investigation of the Effect of Partially Propped Fracture Closu
 authors:
 - Xia Yan
 - Zhaoqin Huang
-- Qi Zhang
+- admin
 - Dongyan Fan
 - Jun Yao
 date: '2020-10-01'

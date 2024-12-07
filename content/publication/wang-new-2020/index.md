@@ -3,7 +3,7 @@ title: New Type of Similar Material for Simulating the Processes of Water Inrush
   Roof Bed Separation
 authors:
 - Zaiyong Wang
-- Qi Zhang
+- admin
 - Jianli Shao
 - Wenquan Zhang
 - Xintao Wu

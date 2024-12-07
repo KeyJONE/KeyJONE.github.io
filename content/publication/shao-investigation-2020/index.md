@@ -3,7 +3,7 @@ title: Investigation on the Water Flow Evolution in a Filled Fracture under Seep
   Erosion
 authors:
 - Jianli Shao
-- Qi Zhang
+- admin
 - Xintao Wu
 - Yu Lei
 - Xunan Wu

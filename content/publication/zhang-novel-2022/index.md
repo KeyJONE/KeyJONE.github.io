@@ -1,7 +1,7 @@
 ---
 title: A novel stabilized NS-FEM formulation for anisotropic double porosity media
 authors:
-- Qi Zhang
+- admin
 - Ze-Yu Wang
 - Zhen-Yu Yin
 - Yin-Fu Jin

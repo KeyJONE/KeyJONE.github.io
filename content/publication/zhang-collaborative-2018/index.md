@@ -1,7 +1,7 @@
 ---
 title: Collaborative 3D geological modeling analysis based on multi-source data standard
 authors:
-- Qi Zhang
+- admin
 - Hehua Zhu
 date: '2018-11-01'
 publishDate: '2024-12-05T17:01:37.529513Z'

@@ -2,7 +2,7 @@
 title: 'Fluid flow through anisotropic and deformable double porosity media with ultra-low
   matrix permeability: A continuum framework'
 authors:
-- Qi Zhang
+- admin
 - Xia Yan
 - Jianli Shao
 date: '2021-05-01'

@@ -3,7 +3,7 @@ title: Experimental Study on the Basic Properties of a Green New Coal Mine Grout
   Reinforcement Material
 authors:
 - Xianxiang Zhu
-- Qi Zhang
+- admin
 - Wenquan Zhang
 - Jianli Shao
 - Zaiyong Wang

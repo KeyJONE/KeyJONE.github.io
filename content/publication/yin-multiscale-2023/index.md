@@ -2,7 +2,7 @@
 title: Multiscale multiphysics modeling in geotechnical engineering
 authors:
 - Zhenyu Yin
-- Qi Zhang
+- admin
 - Farid Laouafa
 date: '2023-01-01'
 publishDate: '2024-12-05T17:01:37.647735Z'

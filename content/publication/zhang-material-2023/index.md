@@ -2,7 +2,7 @@
 title: Material Constants of Anisotropic Poroelasticity and Its Impacts on Shale Gas
   Production
 authors:
-- Qi Zhang
+- admin
 - Zhen-Yu Yin
 - Xia Yan
 date: '2023-11-01'

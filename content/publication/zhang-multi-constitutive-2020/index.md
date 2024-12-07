@@ -1,7 +1,7 @@
 ---
 title: Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem
 authors:
-- Qi Zhang
+- admin
 - Yilin Chen
 - Ziyi Yang
 - Eric Darve

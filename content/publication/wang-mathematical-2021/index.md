@@ -3,7 +3,7 @@ title: Mathematical Evaluation on the Control of Mining-Induced Ground Subsidenc
   in Thick Loose Strata
 authors:
 - Zaiyong Wang
-- Qi Zhang
+- admin
 - Jianli Shao
 - Wenquan Zhang
 - Xintao Wu

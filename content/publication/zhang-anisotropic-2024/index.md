@@ -2,7 +2,7 @@
 title: Anisotropic continuum framework of coupled gas flow - adsorption - deformation
   in sedimentary rocks
 authors:
-- Qi Zhang
+- admin
 - Zhen-Yu Yin
 - Xia Yan
 date: '2024-03-01'

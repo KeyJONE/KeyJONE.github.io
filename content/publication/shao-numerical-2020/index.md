@@ -3,7 +3,7 @@ title: Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain I
   by Digital Images
 authors:
 - Jianli Shao
-- Qi Zhang
+- admin
 - Wenbin Sun
 - Zaiyong Wang
 - Xianxiang Zhu

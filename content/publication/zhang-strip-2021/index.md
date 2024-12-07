@@ -2,7 +2,7 @@
 title: Strip load on transversely isotropic elastic double porosity media with strong
   permeability contrast
 authors:
-- Qi Zhang
+- admin
 date: '2021-12-01'
 publishDate: '2024-12-05T17:01:37.612170Z'
 publication_types:

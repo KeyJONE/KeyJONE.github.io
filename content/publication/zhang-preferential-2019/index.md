@@ -2,7 +2,7 @@
 title: On the preferential flow patterns induced by transverse isotropy and non-Darcy
   flow in double porosity media
 authors:
-- Qi Zhang
+- admin
 - Jinhyun Choo
 - Ronaldo I. Borja
 date: '2019-08-01'

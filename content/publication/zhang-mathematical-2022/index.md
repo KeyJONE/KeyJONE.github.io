@@ -2,7 +2,7 @@
 title: A mathematical framework for multiphase poromechanics in multiple porosity
   media
 authors:
-- Qi Zhang
+- admin
 - Xia Yan
 - Zihao Li
 date: '2022-06-01'
