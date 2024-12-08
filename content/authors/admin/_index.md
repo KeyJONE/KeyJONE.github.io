@@ -94,7 +94,7 @@ work:
     date_end: 2024-12-31
     summary: |
       Responsibilities include:
-      - Teaching 0.5 to 1 course per year
+      - Teach 0.5 to 1 course per year
       - Write RGC-GRF Proposal
       - Publish Research Results in Top Journals
       - Salary is about 65k USD per year before tax
