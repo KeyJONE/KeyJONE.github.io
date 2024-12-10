@@ -33,18 +33,18 @@ tags:
 - [ ] Unzip the file using the following command and you will get a folder named **eigen-3.4.0**.
 - [ ] Rename the folder name to **eigen3** and move it to the following directory.
 
-      ```
-      tar -xzvf eigen-3.4.0.tar.gz
-      mv eigen-3.4.0 eigen3
-      mv eigen3 /home/ubuntu/deal.II/installed/include/
-      ```
+```
+tar -xzvf eigen-3.4.0.tar.gz
+mv eigen-3.4.0 eigen3
+mv eigen3 /home/ubuntu/deal.II/installed/include/
+```
 
 - [ ] Run the simple test file
 
-      ```
-      cd /home/ubuntu/Desktop/Geocentric/solvers/AMCC-ANDPM-new
-      sh build.sh
-      ./solver 2 parameters/input_e2_debug_couldrun.prm
-      ```
-      
+```
+cd /home/ubuntu/Desktop/Geocentric/solvers/AMCC-ANDPM-new
+sh build.sh
+./solver 2 parameters/input_e2_debug_couldrun.prm
+```
+
 - [x] Congratulations! You are done with the installation!
