@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Tenure-Track Assistant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -149,4 +149,4 @@ awards:
 
 ## About Me
 
-Qi Zhang is a Tenure-Track Assistant Professor of Geotechnical Engineering at the Department of Civil and Environmental Engineering, Faculty of Science and Technology, University of Macau. He is interested in understanding and controlling the fundamental poro-mechanical processes that determine the formation and recovery of earth resources from sedimentary rocks to achieve energy and environmental sustainability. He is currently teaching CIVL 7014: Numerical modeling in Geomechanics.
+Qi Zhang is an Assistant Professor of Geotechnical Engineering at the Department of Civil and Environmental Engineering, Faculty of Science and Technology, University of Macau. He is interested in understanding and controlling the fundamental poro-mechanical processes that determine the formation and recovery of earth resources from sedimentary rocks to achieve energy and environmental sustainability. He is currently teaching CIVL 7014: Numerical modeling in Geomechanics.
